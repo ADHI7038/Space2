@@ -20,7 +20,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url(./img/Screenshot\ 2023-11-20\ 191517.png);
+    background-image: url(./Screenshot\ 2023-11-20\ 191517.png);
 }
 
 
@@ -113,7 +113,7 @@ input[type="submit"]:hover {
 
 
 .hero {
-    background-image: url('./img/space-perspective-capsule.jpg'); 
+    background-image: url('./space-perspective-capsule.jpg'); 
     height: 500px;
     background-size: cover;
     background-position: center;
