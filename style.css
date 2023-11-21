@@ -97,7 +97,7 @@ input[type="submit"]:hover {
 
 
 .hero {
-    background-image: url('./img/space-perspective-capsule.jpg'); 
+    background-image: url('./space-perspective-capsule.jpg'); 
     height: 500px;
     background-size: cover;
     background-position: center;
